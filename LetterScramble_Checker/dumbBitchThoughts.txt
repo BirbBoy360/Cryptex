@@ -1,0 +1,45 @@
+Dumbfuck thoughts go here:
+
+- I kinda want to use some objects and keep everything attached to them
+- Caching cartesian products under the key of the allLetters list would be useful
+
+- So when I run the application I want a menu that works off of a given scramble or on start
+	So I can run various functions through the menu on the scramble
+- Main will be a handler that allows which scramble to be chosen for the menu
+- I guess one question is how to handle passing the scramble to the menu and/or if the MenuSwitch() returns control to Run() and continues
+
+- I'm defining scrambler as a type of sorts and various functions that can be run on said type through IScrambler
+- How do I want to store the multiple scrambles? 
+	Should I have them written to and retrieved from a file so that they aren't run again if they've been run outside of the programs lifetime?
+
+So theres a list of all options where order is important but those options are character lists with no order
+If I took the options and ordered them I could make a key out of them... probably? 
+	abc def would register as the same key as ab cdef and cause a collision though
+
+Okay, so what's happening right now... going to create IScrambler objects
+The scramblers scramble, have keys, and handle scramblers they do not interact with the user
+
+
+REDUCE SCOPE
+deleted fileHandling so I'm not even looking at it, there's only one menu so Imenu is gone too
+put scrambles in a stack and just assuming that the menu is running off of the most recent one instead of passing one to the menu
+
+
+TO DO:
+- Deal with scramble objects. Make a dictionary/stack and use the most recent one, or provided value from key for the menu
+	- Input for the scramblers comes second, get them stored first
+- Consider making an ERD just to do it or a data flow diagram
+- Don't worry too much about generics since this program has a very specific use and will function off of string/chars only
+- 
+
+
+WAY LATER:
+- Get previously run cartesians from files present at run time
+- Store cartesian products in files with the key as the file name or first line
+
+
+
+
+
+
+On first open, start new

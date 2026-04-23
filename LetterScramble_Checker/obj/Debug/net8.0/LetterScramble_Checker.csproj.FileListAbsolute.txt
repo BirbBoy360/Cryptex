@@ -1,0 +1,14 @@
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\bin\Debug\net8.0\LetterScramble_Checker.exe
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\bin\Debug\net8.0\LetterScramble_Checker.deps.json
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\bin\Debug\net8.0\LetterScramble_Checker.runtimeconfig.json
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\bin\Debug\net8.0\LetterScramble_Checker.dll
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\bin\Debug\net8.0\LetterScramble_Checker.pdb
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.AssemblyInfoInputs.cache
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.AssemblyInfo.cs
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.csproj.CoreCompileInputs.cache
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.dll
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\refint\LetterScramble_Checker.dll
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.pdb
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\LetterScramble_Checker.genruntimeconfig.cache
+C:\Users\Black\source\repos\LetterScramble_Checker\LetterScramble_Checker\obj\Debug\net8.0\ref\LetterScramble_Checker.dll

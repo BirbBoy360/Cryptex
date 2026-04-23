@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterScramble_Checker", "LetterScramble_Checker\LetterScramble_Checker.csproj", "{8CDA238B-8C3A-476E-935D-84E0123FAF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrambleAgain", "ScrambleAgain\ScrambleAgain.csproj", "{0F00B81C-B57A-4B26-8DEA-1FDED46005BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDA238B-8C3A-476E-935D-84E0123FAF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDA238B-8C3A-476E-935D-84E0123FAF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDA238B-8C3A-476E-935D-84E0123FAF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDA238B-8C3A-476E-935D-84E0123FAF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F00B81C-B57A-4B26-8DEA-1FDED46005BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F00B81C-B57A-4B26-8DEA-1FDED46005BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F00B81C-B57A-4B26-8DEA-1FDED46005BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F00B81C-B57A-4B26-8DEA-1FDED46005BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0150736D-B331-4B5F-8429-041E61976764}
+	EndGlobalSection
+EndGlobal
